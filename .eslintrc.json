@@ -9,10 +9,10 @@
     "ecmaVersion": "latest"
   },
   "rules": {
+    "indent": ["error", 2],
     "semi": ["error", "always"],
     "quotes": ["error", "single"],
     "no-console": "off",
     "linebreak-style": 0
-  },
-  "indent": ["error", 2]
+  }
 }
